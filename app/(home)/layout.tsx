@@ -13,7 +13,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           <nav className="flex items-baseline space-x-4  bg-opacity-50">
             <a
               href="#"
-              className="text-gray-300 hover:bg-red-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+              className="text-gray-300 hover:bg-blue-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
             >
              00 Home
             </a>
